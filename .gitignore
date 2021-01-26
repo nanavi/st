@@ -6,3 +6,4 @@ st.c.orig
 st.o
 x.c.orig
 x.o
+*.diff
